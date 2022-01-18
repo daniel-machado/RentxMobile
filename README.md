@@ -8,16 +8,15 @@
  <img src="https://img.shields.io/static/v1?label=Ignite&message=ReactNative&color=dc1637&labelColor=0A1033" alt="NLW 06" />
 </p>
 
-
-![cover](.github/Images/Home.jpg)
-![cover](.github/Images/CarDetails.jpg)
-![cover](.github/Images/Scheduling.jpg)
-![cover](.github/Images/SchedulingDetailsActive.jpg)
-![cover](.github/Images/SchedulingDetailsInactive.jpg)
-![cover](.github/Images/SchedulingComplete.jpg)
-![cover](.github/Images/MyCars.jpg)
-
-
+<div display: flex align="center">
+<img alt="Home" height="400" title="Home" src=".github/Images/Home.png" />
+<img alt="CarDetails" height="400" title="CarDetails" src=".github/Images/CarDetails.png" />
+<img alt="Scheduling" height="400" title="Scheduling" src=".github/Images/Scheduling.png" />
+<img alt="SchedulingDetailsActive" height="400" title="SchedulingDetailsActive" src=".github/Images/SchedulingDetailsActive.png" />
+<img alt="SchedulingDetailsInactive" height="400" title="SchedulingDetailsInactive" src=".github/Images/SchedulingDetailsInactive.png" />
+<img alt="SchedulingComplete" height="400" title="SchedulingComplete" src=".github/Images/SchedulingComplete.png" />
+<img alt="MyCars" height="400" title="MyCars" src=".github/Images/MyCars.png" />
+</div>
 
 ## 💻 Projeto
 
